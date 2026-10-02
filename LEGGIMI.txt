@@ -1,0 +1,14 @@
+SCADENZIARIO - app Android (Kotlin + Jetpack Compose)
+
+COME OTTENERE L'APK
+1. Installa Android Studio (gratuito): https://developer.android.com/studio
+2. File > Open > scegli questa cartella "Scadenziario". Attendi "Gradle sync" (la prima volta scarica tutto, qualche minuto).
+   Se Android Studio propone di aggiornare Gradle/plugin, accetta.
+3. Menu Build > Build Bundle(s) / APK(s) > Build APK(s).
+4. Al termine clicca "locate": il file e' app/build/outputs/apk/debug/app-debug.apk
+5. Copia l'APK sul telefono (cavo, Drive, WhatsApp a te stesso), aprilo e consenti
+   "Installa app sconosciute" quando richiesto.
+
+PROVA RAPIDA: collega il telefono (Opzioni sviluppatore > Debug USB) e premi il triangolo verde "Run".
+
+SCHEDE IN BASSO: Prodotti (sinistra) | Home (centro) | Impostazioni (destra)
